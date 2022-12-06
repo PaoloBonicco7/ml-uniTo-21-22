@@ -14,5 +14,9 @@ the surname of the professor who teached the course:
 
 ## 1. Decision Tree
 
+### Dubbi:
+
+Nell'esercizio 1.2, è corretto che rimangano due errori sul test-set?
+
 
 

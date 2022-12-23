@@ -18,5 +18,12 @@ the surname of the professor who teached the course:
 
 Nell'esercizio 1.2, è corretto che rimangano due errori sul test-set?
 
+## 3. Clustering
+
+### Dubbi:
+
+1. Bisogna trovare il miglior valore di K automaticamente?
+2. Ha senso il valore della silhouette score per i 3 dataset?
+
 
 
